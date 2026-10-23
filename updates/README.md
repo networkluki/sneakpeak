@@ -4,6 +4,10 @@ This is a curated public activity log, not a mirror of private commits or intern
 
 ## 2026
 
+### October 23 · PROJECT 004 // PowerConfig
+
+A selected [PowerConfig](../teasers/powerconfig.md) C# excerpt is now public, showing configurable Solar Panel and Test Generator power output. Implementation and runtime behavior remain private.
+
 ### October 23 · PROJECT 003 // LoadoutController
 
 A selected [LoadoutController](../teasers/loadoutcontroller.md) C# excerpt is now public, introducing a Rust Oxide plugin for persistent player loadouts without revealing its full implementation.
