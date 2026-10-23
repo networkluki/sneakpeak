@@ -30,13 +30,19 @@ You'll see signs of progress, carefully chosen previews, and occasional hints ab
 | `REVEALED` | More information is available publicly |
 | `ON HOLD` | Temporarily paused; not a release commitment |
 
-**Current public previews:** No individual projects have been disclosed yet. Check the [teaser index](teasers/README.md) for future entries.
+### Currently in the spotlight
+
+**[PROJECT 001 // NetworkLuki Drugs](teasers/networkluki-drugs.md)** · `BUILDING`
+
+A small glimpse of a FiveM Lua resource. See a limited, collapsible manifest excerpt while the rest stays behind the curtain.
+
+Browse the [full teaser index](teasers/README.md).
 
 ## Latest signal
 
-**2026-10-23 · Sneak//Peek initialized**
+**2026-10-23 · First project sneak peek**
 
-The public preview hub is being prepared. The first project-specific teaser will appear when there's something meaningful and safe to show.
+A curated Lua manifest preview is now available for [NetworkLuki Drugs](teasers/networkluki-drugs.md). The implementation remains private.
 
 Read the [update log](updates/README.md).
 
