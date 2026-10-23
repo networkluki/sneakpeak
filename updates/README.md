@@ -4,6 +4,10 @@ This is a curated public activity log, not a mirror of private commits or intern
 
 ## 2026
 
+### October 23 · First project sneak peek
+
+[PROJECT 001 // NetworkLuki Drugs](../teasers/networkluki-drugs.md) has a public teaser with a selectively abridged FiveM Lua manifest. Internal implementation remains private.
+
 ### October 23 · Public preview hub
 
 Sneak//Peek is taking shape: a place for selected previews, hints, and progress notes about upcoming NetworkLuki work.
