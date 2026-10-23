@@ -7,6 +7,7 @@ Small windows into selected ongoing work. Individual teasers are deliberately in
 | Project | Status | Public glimpse |
 | --- | --- | --- |
 | [PROJECT 001 // NetworkLuki Drugs](networkluki-drugs.md) | `BUILDING` | FiveM Lua manifest excerpt and limited project description |
+| [PROJECT 002 // Underground Racing](underground-racing.md) | `BUILDING` | FiveM / ESX racing resource, UI declarations and Lua preview |
 
 ## How to browse
 
