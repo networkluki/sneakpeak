@@ -32,6 +32,10 @@ You'll see signs of progress, carefully chosen previews, and occasional hints ab
 
 ### Currently in the spotlight
 
+**[PROJECT 002 // Underground Racing](teasers/underground-racing.md)** · `BUILDING`
+
+A limited look at an underground racing ecosystem for ESX: a collapsible Lua resource manifest with selected web UI details.
+
 **[PROJECT 001 // NetworkLuki Drugs](teasers/networkluki-drugs.md)** · `BUILDING`
 
 A small glimpse of a FiveM Lua resource. See a limited, collapsible manifest excerpt while the rest stays behind the curtain.
@@ -40,9 +44,9 @@ Browse the [full teaser index](teasers/README.md).
 
 ## Latest signal
 
-**2026-10-23 · First project sneak peek**
+**2026-10-23 · Underground Racing joins the preview board**
 
-A curated Lua manifest preview is now available for [NetworkLuki Drugs](teasers/networkluki-drugs.md). The implementation remains private.
+A curated Lua manifest preview is available for [Underground Racing](teasers/underground-racing.md). Internal modules and operational details remain private.
 
 Read the [update log](updates/README.md).
 
