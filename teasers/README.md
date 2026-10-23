@@ -1,22 +1,17 @@
 # Project teasers
 
-Small windows into selected ongoing work.
-
-**No individual projects have been published here yet.** When a project is ready for a public hint, it will get its own Markdown page in this directory.
-
-## How to browse
-
-Each published teaser may include:
-
-- A codename rather than an internal project name.
-- A general category and current public status.
-- A small screenshot or short demo, deliberately limited in scope.
-- A few safe highlights and a dated update.
-
-New pages should be linked below once they are reviewed for disclosure.
+Small windows into selected ongoing work. Individual teasers are deliberately incomplete and do not expose full private projects.
 
 ## Published previews
 
-*Nothing revealed yet.*
+| Project | Status | Public glimpse |
+| --- | --- | --- |
+| [PROJECT 001 // NetworkLuki Drugs](networkluki-drugs.md) | `BUILDING` | FiveM Lua manifest excerpt and limited project description |
+
+## How to browse
+
+Each published teaser may include a codename, a broad public status, a limited visual or code preview, and a dated development signal.
+
+These are not full source releases or delivery commitments.
 
 [Back to Sneak//Peek](../README.md)
