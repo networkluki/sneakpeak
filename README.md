@@ -32,6 +32,10 @@ You'll see signs of progress, carefully chosen previews, and occasional hints ab
 
 ### Currently in the spotlight
 
+**[PROJECT 003 // LoadoutController](teasers/loadoutcontroller.md)** · `BUILDING`
+
+An early look at a Rust server plugin with an admin UI and persistent loadout controls, including a collapsible C# code excerpt.
+
 **[PROJECT 002 // Underground Racing](teasers/underground-racing.md)** · `BUILDING`
 
 A limited look at an underground racing ecosystem for ESX: a collapsible Lua resource manifest with selected web UI details.
@@ -44,9 +48,9 @@ Browse the [full teaser index](teasers/README.md).
 
 ## Latest signal
 
-**2026-10-23 · Underground Racing joins the preview board**
+**2026-10-23 · LoadoutController joins the preview board**
 
-A curated Lua manifest preview is available for [Underground Racing](teasers/underground-racing.md). Internal modules and operational details remain private.
+A curated C# plugin excerpt is available for [LoadoutController](teasers/loadoutcontroller.md). Private implementation remains undisclosed.
 
 Read the [update log](updates/README.md).
 
