@@ -32,6 +32,10 @@ You'll see signs of progress, carefully chosen previews, and occasional hints ab
 
 ### Currently in the spotlight
 
+**[PROJECT 004 // PowerConfig](teasers/powerconfig.md)** · `BUILDING`
+
+A Rust Oxide C# plugin preview showing configurable Solar Panel and Test Generator power output via JSON settings.
+
 **[PROJECT 003 // LoadoutController](teasers/loadoutcontroller.md)** · `BUILDING`
 
 An early look at a Rust server plugin with an admin UI and persistent loadout controls, including a collapsible C# code excerpt.
@@ -48,9 +52,9 @@ Browse the [full teaser index](teasers/README.md).
 
 ## Latest signal
 
-**2026-10-23 · LoadoutController joins the preview board**
+**2026-10-23 · PowerConfig joins the preview board**
 
-A curated C# plugin excerpt is available for [LoadoutController](teasers/loadoutcontroller.md). Private implementation remains undisclosed.
+A curated C# configuration excerpt is available for [PowerConfig](teasers/powerconfig.md). Full plugin logic remains private.
 
 Read the [update log](updates/README.md).
 
